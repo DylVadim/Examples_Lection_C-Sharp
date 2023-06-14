@@ -1,0 +1,15 @@
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\bin\Debug\net7.0\Example006_Base.exe
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\bin\Debug\net7.0\Example006_Base.deps.json
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\bin\Debug\net7.0\Example006_Base.runtimeconfig.json
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\bin\Debug\net7.0\Example006_Base.dll
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\bin\Debug\net7.0\Example006_Base.pdb
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.csproj.AssemblyReference.cache
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.AssemblyInfoInputs.cache
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.AssemblyInfo.cs
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.csproj.CoreCompileInputs.cache
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.dll
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\refint\Example006_Base.dll
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.pdb
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\Example006_Base.genruntimeconfig.cache
+C:\prod\Examples\Examples_Lection_C-Sharp\Example006_Base\obj\Debug\net7.0\ref\Example006_Base.dll
