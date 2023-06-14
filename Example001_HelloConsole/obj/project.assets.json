@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "C:\\projects\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectPath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Examples\\Example001_HelloConsole\\obj\\",
+      "outputPath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"

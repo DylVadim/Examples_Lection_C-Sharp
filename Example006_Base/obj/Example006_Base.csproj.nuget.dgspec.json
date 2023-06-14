@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\prod\\Examples\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj": {}
+    "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj": {}
   },
   "projects": {
-    "C:\\prod\\Examples\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj": {
+    "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\prod\\Examples\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
+        "projectUniqueName": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
         "projectName": "Example006_Base",
-        "projectPath": "C:\\prod\\Examples\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
-        "packagesPath": "C:\\Users\\Dylva\\.nuget\\packages\\",
-        "outputPath": "C:\\prod\\Examples\\Examples_Lection_C-Sharp\\Example006_Base\\obj\\",
+        "projectPath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dylva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

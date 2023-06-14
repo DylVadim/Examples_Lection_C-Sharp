@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EEoYaP4OldpJ6sOf2rVkth+iVwnxWvmiUyQwAz5qiwMZKcMWN1INYE44CX6+rwMemsCGK90h/M5dSDuNl6EKJw==",
+  "dgSpecHash": "gdpcRpbaGIRZJPabDCWuRM2auyYwdZEiuLRsCGLDkVai5VbO0Jj6vaofqSayNbjDCdqyaw7LlSkRwX8VtBVq0w==",
   "success": true,
-  "projectFilePath": "c:\\projects\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "projectFilePath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
