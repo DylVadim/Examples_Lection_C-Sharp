@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
+      "projectUniqueName": "c:\\projects\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
       "projectName": "Example006_Base",
-      "projectPath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
+      "projectPath": "c:\\projects\\Examples_Lection_C-Sharp\\Example006_Base\\Example006_Base.csproj",
       "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Vadim\\OneDrive\\Документы\\GitHub\\Examples_Lection_C-Sharp\\Example006_Base\\obj\\",
+      "outputPath": "c:\\projects\\Examples_Lection_C-Sharp\\Example006_Base\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
